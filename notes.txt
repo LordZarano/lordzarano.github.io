@@ -1,0 +1,14 @@
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
+New Javascript Things
+This page will have some things I wrote with javascript but right now it's under construction
+Might also have some html and css things. We shall see
+#C7490E
+https://commons.wikimedia.org/wiki/File:Noname_flat_calculator_-_printed_circuit_board_-_keyboard_side-2194.jpg
+Image © Raimond Spekking / CC BY-SA 4.0 (via Wikimedia Commons)
+
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+
+
+    font-family: 'Josefin Sans', sans-serif;
+
+https://img.devrant.com/devrant/rant/r_1933665_e3nej.jpg
